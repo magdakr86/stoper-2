@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: #008080; 
+}
+
+a, button {
+  background-color: #008080;
+  font-family: monospace;
+  font-size: 25px;
+  text-decoration: none;
+  padding: 25px;
+  color: white; 
+  width: auto;
+  margin: 30px;
+}
+
+.controls {
+  position: relative;
+  top: 40vh; 
+}
+
+.stopwatch {
+  font-family: monospace;
+  position: relative;
+  top: 10px;
+  font-size: 150px;
+  color: #C8FFF5;
+  width: auto; 
+}
+  
